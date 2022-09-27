@@ -71,20 +71,20 @@ endmodule
 
 ## Output:
 
-Using NAND Operation
+Using NAND Operation:
 ### Truth Table:
 ![out](1.png)
-### RTL
+### RTL Realization:
 ![out](2.png)
-### Timing Diagram
+### Timing Diagram:
 ![out](3.png)
 
 Using NOR Operation
 ### Truth Table:
 ![out](4.png)
-### RTL
+### RTL Realization:
 ![out](5.png)
-### Timing Diagram
+### Timing Diagram:
 ![out](6.png)
 ## Result:
 Thus, the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
