@@ -72,17 +72,19 @@ endmodule
 ## Output:
 
 Using NAND Operation:
-### Truth Table:
-![out](1.png)
+
 ### RTL Realization:
+![out](1.png)
+### Truth Table:
 ![out](2.png)
 ### Timing Diagram:
 ![out](3.png)
 
-Using NOR Operation
-### Truth Table:
-![out](4.png)
+Using NOR Operation:
+
 ### RTL Realization:
+![out](4.png)
+### Truth Table:
 ![out](5.png)
 ### Timing Diagram:
 ![out](6.png)
